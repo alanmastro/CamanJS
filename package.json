@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "canvas": "*",
-    "fibers": "*"
+    "fibers": "1.0.15"
   },
   "devDependencies": {
     "coffee-script": ">= 1.6.1",
